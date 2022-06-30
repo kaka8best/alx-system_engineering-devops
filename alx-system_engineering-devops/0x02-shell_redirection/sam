@@ -1,1 +1,3 @@
-"hello,wrold"
+
+#!/bin/bash
+0-hello wrold
